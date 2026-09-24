@@ -1,0 +1,6 @@
+{
+  "name": "ريستوسنك - RestoSync",
+  "description": "منصة إدارة المطاعم بكل بساطة. تحكم بالطاولات والطلبات وتحديثات المطبخ والمدفوعات من منصة واحدة مقابل 99 ₪ شهرياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
